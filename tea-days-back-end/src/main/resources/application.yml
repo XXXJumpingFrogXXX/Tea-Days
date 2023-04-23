@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mariadb://nkchayuan.top:3306/nkchayuanDB
+    username: taffy
+    password: NdDtv%8A3YE+WeTG
+    driver-class-name: org.mariadb.jdbc.Driver
